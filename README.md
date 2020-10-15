@@ -1,5 +1,7 @@
 # MinhaApp
 
+<img src="se2.gif" width="300px" align="center">
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
 
 ## Development server
